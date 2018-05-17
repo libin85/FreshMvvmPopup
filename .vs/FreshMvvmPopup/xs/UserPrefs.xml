@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{65BAE6B6-B114-4566-AA0E-B6A584123DE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Source Not Available">
+    <Files>
+      <File FileName="FreshMvvmPopup/PageModels/FirstPageModel.cs" Line="22" Column="10" />
+      <File FileName="FreshMvvmPopup/Popups/SamplePopupPageModel.cs" Line="20" Column="10" />
+      <File FileName="FreshMvvmPopup/Popups/SamplePopupPage.xaml" Line="8" Column="69" />
+      <File FileName="FreshMvvmPopup/PageModels/SecondPageModel.cs" Line="19" Column="82" />
+      <File FileName="FreshMvvmPopup/Popups/SecondPopupPageModel.cs" Line="18" Column="1" />
+      <File FileName="FreshMvvmPopup/Popups/SecondPopupPage.xaml" Line="9" Column="81" />
+      <File FileName="FreshMvvmPopup/PopupCoreMethods.cs" Line="70" Column="35" />
+      <File FileName="Source Not Available" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FreshMvvmPopup.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/libin/Projects/FreshMvvmPopup/FreshMvvmPopup/Popups/SecondPopupPageModel.cs" relfile="FreshMvvmPopup/Popups/SecondPopupPageModel.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FreshMvvmPopup.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/libin/Projects/FreshMvvmPopup/FreshMvvmPopup/bin/Debug/netstandard2.0/FreshMvvmPopup.deps.json
+/Users/libin/Projects/FreshMvvmPopup/FreshMvvmPopup/bin/Debug/netstandard2.0/FreshMvvmPopup.dll
+/Users/libin/Projects/FreshMvvmPopup/FreshMvvmPopup/bin/Debug/netstandard2.0/FreshMvvmPopup.pdb
+/Users/libin/Projects/FreshMvvmPopup/FreshMvvmPopup/obj/Debug/netstandard2.0/FreshMvvmPopup.csprojResolveAssemblyReference.cache
+/Users/libin/Projects/FreshMvvmPopup/FreshMvvmPopup/obj/Debug/netstandard2.0/FreshMvvmPopup.csproj.CoreCompileInputs.cache
+/Users/libin/Projects/FreshMvvmPopup/FreshMvvmPopup/obj/Debug/netstandard2.0/FreshMvvmPopup.AssemblyInfoInputs.cache
+/Users/libin/Projects/FreshMvvmPopup/FreshMvvmPopup/obj/Debug/netstandard2.0/FreshMvvmPopup.AssemblyInfo.cs
+/Users/libin/Projects/FreshMvvmPopup/FreshMvvmPopup/obj/Debug/netstandard2.0/FreshMvvmPopup.dll
+/Users/libin/Projects/FreshMvvmPopup/FreshMvvmPopup/obj/Debug/netstandard2.0/FreshMvvmPopup.pdb
